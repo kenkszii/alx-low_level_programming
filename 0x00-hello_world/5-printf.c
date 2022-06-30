@@ -1,12 +1,13 @@
 #include <stdio.h>
+
 /**
- * main - c programming with printf
+ * main - Prints "with proper grammar, but the ouptu is a piece of art,"
  *
- * return: will always return o
- *
+ * Return: Always 0 (Success)
  */
+
 int main(void)
 {
-printf("with proper grammar, but the outcome is a piece of art,\n");
-return (0);
+	printf("with proper grammar, but the outcome is a piece of art,\n");
+	return (0);
 }
