@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <unistd.h>
-/** 
+/**
  * main - Entry point
  *
  * Dora Korpar, 2015-10-19,
