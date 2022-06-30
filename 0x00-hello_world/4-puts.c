@@ -1,4 +1,4 @@
-#include <stdio.h
+#include <stdio.h>
 /**
  * main -write "c programming with put"
  * Return: will always return 0
