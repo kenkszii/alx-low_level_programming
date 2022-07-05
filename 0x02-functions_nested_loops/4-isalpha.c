@@ -1,6 +1,6 @@
 /*
 *File: is the function lowercase or uppercase
-*Auth: Theophilus Ayano
+*Auth: Edwin Agana
 */
 
 #include "main.h"
@@ -17,4 +17,4 @@ int _isalpha(int c)
 		return (1);
 	else
 		return (0);
-
+}
